@@ -1,8 +1,9 @@
 # Portfolio
 
-Introduction\
 
-Welcome to my portfolio! This project serves as a central hub for showcasing my work as a developer. Here, you'll find information about my skills, projects, and educastion.
+Welcome to my portfolio! This project serves as a central hub for showcasing my work as a developer. 
+
+Here, you'll find information about my skills, projects, and Education.
 
 Features
 
